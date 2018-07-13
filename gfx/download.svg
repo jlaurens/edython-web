@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="64"
+   width="64"
+   version="1.1"
+   >
+  <path
+     d="M 8,2 a 6,6 0 0 0 -6,6 l 0,48 a 6,6 0 0 0 6,6 l 48,0 a 6,6 0 0 0 6,-6 l 0,-48 a 6,6 0 0 0 -6,-6 z"
+     id="border-grey"
+     style="stroke:#98959b;stroke-width:4;fill:none;stroke-opacity:1"
+     />
+  <g
+     style="fill-opacity:1;stroke:none"
+     id="g-edython">
+  <path
+     d="M 32,32 m -18,4 a 7,7 0 1 1 4,-12 a 8,8 1 0 1 28,0 a 7,7 0 1 1 4,12 z"
+     style="fill:#f9951b"
+     id="p-e-orange" />
+  <path
+     d="M 32,32 m -6,8 l 0,8 -3,0 9,9 9,-9 -3,0 0,-8 z"
+     id="eye-grey"
+     style="fill:#98959b"
+     />
+  </g>
+</svg>
