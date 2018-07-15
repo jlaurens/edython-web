@@ -1,6 +1,6 @@
 <template>
   <div id="banner">
-      <h1>Edython 0.0.1</h1>
+      <h1>Edython 0.1.0</h1>
       <h2>Éditeur par blocs pour apprendre simplement<br/>à programmer en langage python</h2>
 </div>
 </template>

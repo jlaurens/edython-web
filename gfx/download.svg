@@ -15,12 +15,12 @@
      style="fill-opacity:1;stroke:none"
      id="g-edython">
   <path
-     d="M 32,32 m -18,4 a 7,7 0 1 1 4,-12 a 8,8 1 0 1 28,0 a 7,7 0 1 1 4,12 z"
+     d="M 32,32 m -18,4 a 7,7 0 1 1 0,-14 a 15,15 1 0 1 28,-7 a 6,6 1 0 1 8,6 a 7,7 0 1 1 0,14 z"
      style="fill:#f9951b"
-     id="p-e-orange" />
+     id="cloud-orange" />
   <path
      d="M 32,32 m -6,8 l 0,8 -3,0 9,9 9,-9 -3,0 0,-8 z"
-     id="eye-grey"
+     id="arrow-grey"
      style="fill:#98959b"
      />
   </g>
