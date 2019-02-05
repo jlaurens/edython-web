@@ -32,7 +32,7 @@
     </div>
     <b-modal ref="downloadModalRef" centered title="Téléchargement" @ok="doDownloadOk">
         <div class="d-block text-center">
-          <h3>Pas de téléchargement disponible pour le moment, désolé. En attendant essayez la version en ligne.</h3>
+          <h3>Téléchargement disponible pour MacOS seulement, désolé. Les versions Windows et Linux arrivent bientôt. En attendant vous pouvez essayer la version en ligne.</h3>
         </div>
       </b-modal>
     </div>
@@ -58,13 +58,13 @@ export default {
       this.$refs.downloadModalRef.hide()
     },
     doDownloadOk () {
-      // window.open('http://download.edython.eu', '_self')
+      window.open('http://download.edython.eu', '_self')
     },
     doPlay () {
-      window.open('http://play.edython.eu', '_self')
+      window.open('http://playground.edython.eu', '_self')
     },
     doBlog () {
-      window.open('http://blog.edython.eu', '_self')
+      window.open('http://info.edython.eu', '_self')
     }
   }
 }
